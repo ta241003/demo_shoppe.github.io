@@ -1349,7 +1349,7 @@ i.home-product-item__like-icon-fill {
     list-style: none;
 }
 
-.footer-item__Link {
+.footer-item__link {
     text-decoration: none;
     font-size: 1.2rem;
     color: #737373;
@@ -1358,7 +1358,7 @@ i.home-product-item__like-icon-fill {
     align-items: center;
 }
 
-.footer-item__Link:hover {
+.footer-item__link:hover {
     color: var(--primary-color);
 }
 
@@ -1367,11 +1367,11 @@ i.home-product-item__like-icon-fill {
     margin: -1px 8px 0 0;
 }
 
-.footer__dowload {
+.footer__download {
     display: flex;
 }
 
-.footer__dowload-qr {
+.footer__download-qr {
     width: 80px;
     height: 80px;
     /* object-fit: contain; */
@@ -1390,7 +1390,7 @@ i.home-product-item__like-icon-fill {
     height: 20px;
 }
 
-.footer__dowload-app-link {
+.footer__download-app-link {
     color: transparent;
     text-decoration: none;
 }
